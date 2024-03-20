@@ -1,4 +1,4 @@
-import express from 'express';
+import express from 'https://esm.sh/express?target=denonext';
 
 const app = express();
 const port = 3000;
